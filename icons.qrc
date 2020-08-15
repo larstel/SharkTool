@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/res/icons">
+        <file>res/icons/sharkIcon.png</file>
+    </qresource>
+    <qresource prefix="/statusbar">
+        <file>res/icons/statusbar/export.png</file>
+        <file>res/icons/statusbar/import.png</file>
+        <file>res/icons/statusbar/new.png</file>
+        <file>res/icons/statusbar/open.png</file>
+        <file>res/icons/statusbar/save.png</file>
+        <file>res/icons/statusbar/print.png</file>
+        <file>res/icons/statusbar/about.png</file>
+        <file>res/icons/statusbar/exit.png</file>
+    </qresource>
+    <qresource prefix="/res">
+        <file>res/shark_splash.png</file>
+    </qresource>
+    <qresource prefix="/res/icons/tools">
+        <file>res/icons/tools/circle.png</file>
+        <file>res/icons/tools/circleSelected.png</file>
+        <file>res/icons/tools/circleText.png</file>
+        <file>res/icons/tools/circleTextSelected.png</file>
+        <file>res/icons/tools/pointText.png</file>
+        <file>res/icons/tools/pointTextSelected.png</file>
+        <file>res/icons/tools/rectangle.png</file>
+        <file>res/icons/tools/rectangleSelected.png</file>
+        <file>res/icons/tools/rectangleText.png</file>
+        <file>res/icons/tools/rectangleTextSelected.png</file>
+        <file>res/icons/tools/select.png</file>
+        <file>res/icons/tools/trash.png</file>
+        <file>res/icons/tools/trashSelected.png</file>
+        <file>res/icons/tools/selectSelected.png</file>
+        <file>res/icons/tools/move.png</file>
+        <file>res/icons/tools/moveSelected.png</file>
+        <file>res/icons/tools/paint.png</file>
+        <file>res/icons/tools/paintSelected.png</file>
+        <file>res/icons/tools/rename.png</file>
+        <file>res/icons/tools/renameSelected.png</file>
+        <file>res/icons/tools/text.png</file>
+        <file>res/icons/tools/textSelected.png</file>
+        <file>res/icons/tools/borderSize.png</file>
+        <file>res/icons/tools/borderSizeSelected.png</file>
+        <file>res/icons/tools/resize.png</file>
+        <file>res/icons/tools/resizeSelected.png</file>
+        <file>res/icons/tools/denied.png</file>
+    </qresource>
+</RCC>
